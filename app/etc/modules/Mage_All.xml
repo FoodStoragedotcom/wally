@@ -241,7 +241,7 @@
             </depends>
         </Mage_Backup>
         <Mage_Poll>
-            <active>true</active>
+            <active>false</active>
             <codePool>core</codePool>
             <depends>
                 <Mage_Core/>
@@ -289,7 +289,7 @@
             </depends>
         </Mage_Reports>
         <Mage_Newsletter>
-            <active>true</active>
+            <active>false</active>
             <codePool>core</codePool>
             <depends>
                 <Mage_Core/>
