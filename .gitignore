@@ -4,3 +4,6 @@ nbproject
 /media/*
 /uploads/*
 var
+/.gitignore
+/magento-1.7.0.2.zip
+/RELEASE_NOTES.txt
